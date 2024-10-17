@@ -1,4 +1,9 @@
 # Readme
+IMPORTANT: The orginal reposity I forked from has limited functions/workflows and is not able to work correctly.
+
+PLEASE visit my own reposity https://github.com/HuangZiheng-o-O/workflows_llm
+It is ready to use and has more functions !
+
 
 Run workflow easily with:
 
